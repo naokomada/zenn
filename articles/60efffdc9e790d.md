@@ -1,7 +1,7 @@
 ---
 title: "断片としてのアプリ、人格としてのAIエージェント"
 emoji: "💨"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["ai"]
 published: true
 ---
