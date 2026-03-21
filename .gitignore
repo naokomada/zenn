@@ -1,0 +1,46 @@
+# --- 依存関係 ---
+# npmでインストールされるパッケージ本体。リポジトリが重くなるため除外します。
+node_modules/
+jspm_packages/
+
+# --- ビルド出力 ---
+# コンパイルやビルドによって生成されるファイル。
+dist/
+build/
+out/
+.next/
+.vuepress/dist/
+
+# --- ログファイル ---
+# エラーログやデバッグログ。
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- 環境変数・機密情報 ---
+# APIキーやパスワードを含むファイル。絶対にコミットしてはいけません。
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# --- キャッシュ・一時ファイル ---
+# パフォーマンス向上のためのキャッシュファイル。
+.npm
+.eslintcache
+.stylelintcache
+.cache/
+.parcel-cache
+.tsbuildinfo
+
+# --- OS・エディタ設定 ---
+# Macの隠しファイルや、エディタ固有の設定。
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
