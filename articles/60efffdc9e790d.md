@@ -3,7 +3,7 @@ title: "断片としてのアプリ、人格としてのAIエージェント"
 emoji: "💨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ai"]
-published: false
+published: true
 ---
 
 AIエージェントは、人間がコンピューターを扱う体験を大きく変えようとしています。しかし、こういう変化が起こったのは、初めてのことではありません。
